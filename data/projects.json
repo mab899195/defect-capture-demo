@@ -1,0 +1,6 @@
+{
+  "projects": [
+    { "id": "bridge-demo", "file": "data/bridge-demo.json" },
+    { "id": "parking-demo", "file": "data/parking-demo.json" }
+  ]
+}
